@@ -46,7 +46,7 @@ setup(
     ],
     # List of packages to install with this one
     install_requires=[
-        'requests==2.21.0',
+        'requests==2.31.0',
         'Click==7.0'
     ],
     # https://pypi.org/classifiers/
